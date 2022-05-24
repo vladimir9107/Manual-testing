@@ -1,1 +1,1 @@
-# Manual-testing-checklists-test-cases-and-bug-reporter-
+**Тестирование лендинга по чек-листу**
